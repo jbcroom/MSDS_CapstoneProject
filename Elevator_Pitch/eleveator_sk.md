@@ -47,9 +47,9 @@ https://services1.arcgis.com/0MSEUqKaxRlEPj5g/arcgis/rest/services/cases_time_v3
 
 Not sure if this returns at the zip level, but we can pull from elsewhere if necessary.
 
-#### Census Dataa
+#### Census Data
 
-- JB?
+
 
 ${L}_{ove-me-some-latex}$
 
